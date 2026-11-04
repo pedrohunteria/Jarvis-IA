@@ -1,0 +1,2 @@
+# Dependências do JARVIS IA.
+# Serão adicionadas conforme cada módulo for implementado e testado.
